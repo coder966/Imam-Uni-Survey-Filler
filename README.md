@@ -1,11 +1,18 @@
-FCMSimple
+Imam-Uni Survey Filler
 ===
 For those who are just as lazy as me ;)
+You may get it from here: https://chrome.google.com/webstore/detail/imam-uni-survey-filler/ffohjgnnfnakomidopgoijlhjjjigaaf/
 
 
 Usage
 ---
-You know how to use it, but if you don't, please change your major.
+You know how to use it, but if you don't, please change your major!
+
+
+Contribution
+---
+Any contribution is more than welcome, PR me.
+
 
 License
 ---
