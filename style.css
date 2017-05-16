@@ -1,0 +1,18 @@
+body{
+	direction: rtl;
+	margin: 0px;
+	width: 270px;
+	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+	font-size: 100%;
+	text-align: center;
+}
+#msg{
+	background-color: #F44336;
+	color: white;
+	font-weight: bold;
+	line-height: 20px;
+	padding: 10px;
+}
+#selection{
+	margin: 10px;
+}
