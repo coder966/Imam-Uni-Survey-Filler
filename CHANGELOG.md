@@ -1,5 +1,8 @@
 Changelog
 ===
+#### v1.3 May 17th 2017
+* Add submit button
+
 #### v1.2 May 16th 2017
 * Styling
 
